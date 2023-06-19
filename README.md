@@ -1,3 +1,7 @@
+Update*: 
+- Automatic adjustment of star width based on parent container 
+- Equal spacing between the rating stars using Row layout
+
 ![FLUTTER RATING BAR](rating_bar_banner.png)
 
 [![Pub](https://img.shields.io/pub/v/flutter_rating_bar.svg)](https://pub.dartlang.org/packages/flutter_rating_bar) 
